@@ -1,2 +1,2 @@
-# diffeq
-Jupyter Notebook for Diff Eq learning
+# Jupyter Notebooks for Diff Eq learning 
+## [Access Notebooks here](notebooks)
